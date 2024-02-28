@@ -64,8 +64,4 @@ Square(side=4)
 
 ## My solution 
 
-### Plan
-
-### First commit
-
-### Useful resources
+This was very a very easy challange, took me around 1 hour. I got the exact same output as shown above.
